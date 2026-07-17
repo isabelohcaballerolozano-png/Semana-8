@@ -117,35 +117,11 @@ touch seguridad-plataformas.txt
 touch reflexion-semana8.txt
 ```
 
-### 🖥️ Paso 2: Completar Cada Archivo
-1. **preguntas-semana8.txt**: Respuestas de selección múltiple (A, B, C o D)
-2. **sistema.txt**: Información de comandos del sistema
-3. **seguridad-plataformas.txt**: 5 prácticas de seguridad digital
-4. **reflexion-semana8.txt**: Tu reflexión (8-10 líneas)
 
-### 📤 Paso 3: Publicar en GitHub
-```bash
-cd ../..                    # Vuelve a la raíz del repo
-git status                  # Verifica cambios
-git add .                   # Agrega todos los archivos
-git commit -m "Actividad semana 8"
-git push                    # Envía a GitHub
-```
 
-### ✔️ Paso 4: Verificar
-- Abre tu repositorio en GitHub
-- Confirma que aparezca la carpeta `semana8` con todos los archivos
+#
 
----
-
-## 📌 Notas Importantes
-
-- **Cierre**: Jueves, 16 de julio de 2026, 23:59
-- **Entrega**: Enlace del repositorio en Moodle
-- **Ambiente**: Puedes usar GitHub Codespaces o tu computador local
-- **Validación**: Los archivos deben estar en GitHub para ser calificados
-
----
+ 
 
 ## 🔗 Recursos Rápidos
 
